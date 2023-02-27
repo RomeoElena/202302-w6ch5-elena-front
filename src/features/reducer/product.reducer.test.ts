@@ -1,8 +1,8 @@
 import { ProductStructure } from "../models/product";
 import {
   loadCreator,
-  deleteCreator,
   loadProductCreator,
+  deleteCreator,
   addCreator,
   updateCreator,
 } from "./product.actions.creator";
